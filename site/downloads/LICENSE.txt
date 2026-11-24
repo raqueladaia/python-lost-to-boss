@@ -1,0 +1,35 @@
+Python: From Lost to Boss I
+© 2024–2026 Raquel Adaia Sandoval Ortega · https://sandovalortega.com/python-lost-to-boss-1/
+
+You may reuse and adapt this course, also in your own teaching, as long as you credit the author.
+
+CODE (all .py files): MIT License
+---------------------------------
+Copyright (c) 2024–2026 Raquel Adaia Sandoval Ortega
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+TEXT, SLIDES, FIGURES AND EXAMPLE DATA: Creative Commons Attribution 4.0 (CC BY 4.0)
+------------------------------------------------------------------------------------
+https://creativecommons.org/licenses/by/4.0/
+Credit: "Python: From Lost to Boss I" by Raquel Adaia Sandoval Ortega, https://sandovalortega.com/python-lost-to-boss-1/
+
+Images made by others (cartoons, photos, logos) are not covered: they keep their own terms.
+Image credits: excel-drama.jpg and python-success.jpg were generated with ChatGPT;
+icon-timeline.png is a figure from the Corder Lab; the other cartoons and icons are clip-art.

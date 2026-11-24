@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+title: "Python: From Lost to Boss I"
+message: "If you use or adapt this course, please cite it as below."
+type: software
+authors:
+  - family-names: Sandoval Ortega
+    given-names: Raquel Adaia
+    orcid: https://orcid.org/0000-0002-6449-7883
+    affiliation: University of Pennsylvania
+abstract: "A free, self-paced Python course for researchers: seven parts from installing Python to opening Excel files and plotting a behavioral dataset, with exercises to solve and solved versions."
+repository-code: https://github.com/raqueladaia/python-lost-to-boss
+url: https://sandovalortega.com/python-lost-to-boss-1/
+license: MIT
+keywords:
+  - python
+  - teaching
+  - neuroscience
+  - data analysis
+  - pandas
+  - matplotlib
+date-released: 2026-11-24
